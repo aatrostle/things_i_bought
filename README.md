@@ -1,2 +1,2 @@
-*things_i_bought*
+# things_i_bought
 Chapter 1 project for CodeFellows
